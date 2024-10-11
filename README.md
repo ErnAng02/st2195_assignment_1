@@ -1,6 +1,11 @@
 
 # st2195_assignment_1
 
+## Author: Ernest_Ang
+## Date: 11th Oct 2024
+
+This file is created in remote repository at 1540
+
 ## Table of Contents
 1. README.md file
 2. R-studio project
